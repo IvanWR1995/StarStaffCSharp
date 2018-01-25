@@ -1,0 +1,5 @@
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLib\bin\Debug\StarStaffLib.dll
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLib\bin\Debug\StarStaffLib.pdb
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLib\obj\Debug\StarStaffLib.csprojResolveAssemblyReference.cache
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLib\obj\Debug\StarStaffLib.dll
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLib\obj\Debug\StarStaffLib.pdb

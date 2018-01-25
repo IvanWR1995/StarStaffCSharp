@@ -1,0 +1,7 @@
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLibTests\bin\Release\StarStaffLibTests.dll
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLibTests\bin\Release\StarStaffLibTests.pdb
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLibTests\bin\Release\StarStaffLib.dll
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLibTests\bin\Release\StarStaffLib.pdb
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLibTests\obj\Release\StarStaffLibTests.csprojResolveAssemblyReference.cache
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLibTests\obj\Release\StarStaffLibTests.dll
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLibTests\obj\Release\StarStaffLibTests.pdb

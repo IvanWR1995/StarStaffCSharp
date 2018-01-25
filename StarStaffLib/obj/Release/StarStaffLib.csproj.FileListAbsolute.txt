@@ -1,0 +1,4 @@
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLib\bin\Release\StarStaffLib.dll
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLib\bin\Release\StarStaffLib.pdb
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLib\obj\Release\StarStaffLib.dll
+c:\users\шумаков иван\documents\visual studio 2013\Projects\StarStaffLib\StarStaffLib\obj\Release\StarStaffLib.pdb
